@@ -18,7 +18,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Run Together"
+            android:text="Run Together!!"
             android:textSize="50sp"
             android:fontFamily="casual"
             android:textStyle="bold"
